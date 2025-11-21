@@ -20,7 +20,6 @@ struct Person
 
 int main()
 {
-    std::cout << "=== Лабораторная работа №5: Итераторы и аллокаторы ===\n\n";
 
     // Создаём свой memory_resource
     CustomMemoryResource mr;
